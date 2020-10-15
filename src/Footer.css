@@ -1,0 +1,23 @@
+.footer {
+    background-color: #232f3e;
+    color: white;
+    
+    padding: 35px 5px;
+}
+
+.footer-container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    max-width: 1300px;
+}
+
+ul {
+    list-style: none;
+    padding: 15px 0 0 0;
+}
+
+li {
+    padding-top: 5px;
+    font-size: smaller;
+}
