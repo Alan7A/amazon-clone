@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Deployed app:** https://clone-d9ccf.web.app/
 
 ## Available Scripts
 
